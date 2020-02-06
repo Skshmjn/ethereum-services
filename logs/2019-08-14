@@ -1,0 +1,63 @@
+2019-08-14T07:37:57.807Z | error | ==============================================================
+2019-08-14T07:37:57.813Z | error | broadcast_hash : CustomException: InSufficient Balance
+2019-08-14T07:37:57.813Z | error | ==============================================================
+2019-08-14T07:41:40.131Z | error | ==============================================================
+2019-08-14T07:41:40.133Z | error | broadcast_hash : CustomException: InSufficient Balance
+2019-08-14T07:41:40.133Z | error | ==============================================================
+2019-08-14T07:49:32.848Z | error | ==============================================================
+2019-08-14T07:49:32.854Z | error | broadcast_hash : ReferenceError: fromAddress is not defined
+2019-08-14T07:49:32.855Z | error | ==============================================================
+2019-08-14T07:50:16.339Z | error | ==============================================================
+2019-08-14T07:50:16.340Z | error | broadcast_hash : ReferenceError: fromAddress is not defined
+2019-08-14T07:50:16.340Z | error | ==============================================================
+2019-08-14T07:50:26.237Z | error | ==============================================================
+2019-08-14T07:50:26.237Z | error | broadcast_hash : ReferenceError: fromAddress is not defined
+2019-08-14T07:50:26.237Z | error | ==============================================================
+2019-08-14T07:50:40.367Z | error | ==============================================================
+2019-08-14T07:50:40.370Z | error | broadcast_hash : ReferenceError: fromAddress is not defined
+2019-08-14T07:50:40.370Z | error | ==============================================================
+2019-08-14T07:51:24.174Z | error | ==============================================================
+2019-08-14T07:51:24.178Z | error | broadcast_hash : CustomException: Invalid Transaction ID
+2019-08-14T07:51:24.178Z | error | ==============================================================
+2019-08-14T08:58:35.688Z | error | ==============================================================
+2019-08-14T08:58:35.691Z | error | broadcast_hash : CustomException: Invalid Transaction ID
+2019-08-14T08:58:35.691Z | error | ==============================================================
+2019-08-14T11:20:03.280Z | error | ==============================================================
+2019-08-14T11:20:03.281Z | error | broadcast_hash : CustomException: Invalid Transaction ID
+2019-08-14T11:20:03.281Z | error | ==============================================================
+2019-08-14T11:43:14.697Z | error | ==============================================================
+2019-08-14T11:43:14.700Z | error | deploy-contract : Error: Returned error: insufficient funds for gas * price + value
+    at Object.ErrorResponse (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-helpers/src/errors.js:29:16)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-requestmanager/src/index.js:140:36
+    at XMLHttpRequest.request.onreadystatechange (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-providers-http/src/index.js:96:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-08-14T11:43:14.701Z | error | ==============================================================
+2019-08-14T11:45:31.566Z | error | ==============================================================
+2019-08-14T11:45:31.567Z | error | deploy-contract : Error: Returned error: insufficient funds for gas * price + value
+    at Object.ErrorResponse (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-helpers/src/errors.js:29:16)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-requestmanager/src/index.js:140:36
+    at XMLHttpRequest.request.onreadystatechange (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-providers-http/src/index.js:96:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-08-14T11:45:31.567Z | error | ==============================================================
+2019-08-14T11:48:14.001Z | error | ==============================================================
+2019-08-14T11:48:14.002Z | error | deploy-contract : TypeError: Cannot read property 'contractAddress' of null
+    at Object.deployContract (/home/lenovo/Documents/simplyblock/ethereum-service/utils.js:139:49)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-08-14T11:48:14.003Z | error | ==============================================================
+2019-08-14T11:48:38.096Z | error | ==============================================================
+2019-08-14T11:48:38.099Z | error | deploy-contract : TypeError: Cannot read property 'contractAddress' of null
+    at Object.deployContract (/home/lenovo/Documents/simplyblock/ethereum-service/utils.js:139:49)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-08-14T11:48:38.100Z | error | ==============================================================

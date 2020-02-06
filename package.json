@@ -1,0 +1,33 @@
+{
+  "name": "contract-service",
+  "version": "1.0.0",
+  "description": "Ethereum Contract service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deveshaggrawal19/contract-service.git"
+  },
+  "author": "Devesh Aggrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deveshaggrawal19/contract-service/issues"
+  },
+  "homepage": "https://github.com/deveshaggrawal19/contract-service#readme",
+  "dependencies": {
+    "bignumber.js": "^9.0.0",
+    "ethereumjs-tx": "^1.3.7",
+    "form-data": "^2.5.0",
+    "formidable": "^1.2.1",
+    "mongodb": "^3.3.1",
+    "mongoose": "^5.6.11",
+    "multer": "^1.4.2",
+    "multiparty": "^4.2.1",
+    "solc": "^0.4.25",
+    "web3": "^1.0.0-beta.55",
+    "web3-eth-contract": "^1.0.0-beta.55",
+    "winston": "^3.2.1"
+  }
+}

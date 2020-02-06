@@ -1,0 +1,196 @@
+2019-08-13T08:16:51.223Z | error | ==============================================================
+2019-08-13T08:16:51.225Z | error | broadcast_hash : CustomException: InSufficient Balance
+2019-08-13T08:16:51.225Z | error | ==============================================================
+2019-08-13T08:16:57.206Z | error | ==============================================================
+2019-08-13T08:16:57.206Z | error | broadcast_hash : CustomException: Please provide all the required Parameters
+2019-08-13T08:16:57.206Z | error | ==============================================================
+2019-08-13T08:16:57.208Z | error | ==============================================================
+2019-08-13T08:16:57.208Z | error | broadcast_hash : CustomException: Please provide all the required Parameters
+2019-08-13T08:16:57.208Z | error | ==============================================================
+2019-08-13T09:29:29.346Z | error | ==============================================================
+2019-08-13T09:29:29.346Z | error | broadcast_hash : CustomException: InSufficient Balance
+2019-08-13T09:29:29.346Z | error | ==============================================================
+2019-08-13T09:29:29.376Z | error | ==============================================================
+2019-08-13T09:29:29.376Z | error | broadcast_hash : CustomException: InSufficient Balance
+2019-08-13T09:29:29.376Z | error | ==============================================================
+2019-08-13T09:33:39.717Z | error | ==============================================================
+2019-08-13T09:33:39.717Z | error | broadcast_hash : CustomException: InSufficient Balance
+2019-08-13T09:33:39.717Z | error | ==============================================================
+2019-08-13T09:36:43.117Z | error | ==============================================================
+2019-08-13T09:36:43.118Z | error | broadcast_hash : CustomException: InSufficient Balance
+2019-08-13T09:36:43.118Z | error | ==============================================================
+2019-08-13T09:38:08.212Z | error | ==============================================================
+2019-08-13T09:38:08.212Z | error | broadcast_hash : CustomException: InSufficient Balance
+2019-08-13T09:38:08.213Z | error | ==============================================================
+2019-08-13T09:38:51.534Z | error | ==============================================================
+2019-08-13T09:38:51.540Z | error | broadcast_hash : CustomException: InSufficient Balance
+2019-08-13T09:38:51.541Z | error | ==============================================================
+2019-08-13T09:52:56.347Z | error | ==============================================================
+2019-08-13T09:52:56.350Z | error | broadcast_hash : CustomException: InSufficient Balance
+2019-08-13T09:52:56.350Z | error | ==============================================================
+2019-08-13T09:57:51.253Z | error | ==============================================================
+2019-08-13T09:57:51.254Z | error | broadcast_hash : CustomException: InSufficient Balance
+2019-08-13T09:57:51.254Z | error | ==============================================================
+2019-08-13T11:22:41.505Z | error | ==============================================================
+2019-08-13T11:22:41.507Z | error | deploy-contract : Error: Cannot find module './build/:DappToken.json'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.deployContract (/home/lenovo/Documents/simplyblock/ethereum-service/utils.js:99:24)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/index.js:463:34
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:275:10)
+    at urlencodedParser (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/body-parser/lib/types/urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:317:13)
+2019-08-13T11:22:41.508Z | error | ==============================================================
+2019-08-13T11:23:15.233Z | error | ==============================================================
+2019-08-13T11:23:15.233Z | error | deploy-contract : Error: Cannot find module './build/:DappToken.json'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.deployContract (/home/lenovo/Documents/simplyblock/ethereum-service/utils.js:99:24)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/index.js:463:34
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:275:10)
+    at urlencodedParser (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/body-parser/lib/types/urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:317:13)
+2019-08-13T11:23:15.233Z | error | ==============================================================
+2019-08-13T11:25:28.237Z | error | ==============================================================
+2019-08-13T11:25:28.237Z | error | deploy-contract : TypeError: Cannot read property 'fromRed' of null
+    at Point.getX (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/elliptic/lib/elliptic/curve/short.js:415:17)
+    at Point._encode (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/elliptic/lib/elliptic/curve/base.js:293:16)
+    at Point.encode (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/elliptic/lib/elliptic/curve/base.js:302:28)
+    at KeyPair.getPublic (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/elliptic/lib/elliptic/ec/key.js:66:19)
+    at Object.fromPrivate (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-eth-accounts/node_modules/eth-lib/lib/account.js:31:32)
+    at Accounts.privateKeyToAccount (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-eth-accounts/src/index.js:129:46)
+    at Object.deployContract (/home/lenovo/Documents/simplyblock/ethereum-service/utils.js:103:46)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/index.js:463:34
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:275:10)
+    at urlencodedParser (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/body-parser/lib/types/urlencoded.js:82:7)
+2019-08-13T11:25:28.237Z | error | ==============================================================
+2019-08-13T11:26:26.152Z | error | ==============================================================
+2019-08-13T11:26:26.153Z | error | deploy-contract : TypeError: contract.Contract is not a constructor
+    at Object.deployContract (/home/lenovo/Documents/simplyblock/ethereum-service/utils.js:106:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-08-13T11:26:26.153Z | error | ==============================================================
+2019-08-13T11:33:28.907Z | error | ==============================================================
+2019-08-13T11:33:28.907Z | error | deploy-contract : TypeError: contract.Contract is not a constructor
+    at Object.deployContract (/home/lenovo/Documents/simplyblock/ethereum-service/utils.js:106:36)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-08-13T11:33:28.907Z | error | ==============================================================
+2019-08-13T12:04:46.529Z | error | ==============================================================
+2019-08-13T12:04:46.533Z | error | deploy-contract : Error: Returned error: known transaction: b72da8175f918eecd708a91d642d1f6b482726c05d39b84ee63f09f7f9ed8a7f
+    at Object.ErrorResponse (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-helpers/src/errors.js:29:16)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-requestmanager/src/index.js:140:36
+    at XMLHttpRequest.request.onreadystatechange (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-providers-http/src/index.js:96:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-08-13T12:04:46.533Z | error | ==============================================================
+2019-08-13T12:04:52.676Z | error | ==============================================================
+2019-08-13T12:04:52.694Z | error | deploy-contract : Error: Returned error: known transaction: b72da8175f918eecd708a91d642d1f6b482726c05d39b84ee63f09f7f9ed8a7f
+    at Object.ErrorResponse (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-helpers/src/errors.js:29:16)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-requestmanager/src/index.js:140:36
+    at XMLHttpRequest.request.onreadystatechange (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-providers-http/src/index.js:96:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-08-13T12:04:52.695Z | error | ==============================================================
+2019-08-13T12:04:54.638Z | error | ==============================================================
+2019-08-13T12:04:54.638Z | error | deploy-contract : Error: Returned error: known transaction: b72da8175f918eecd708a91d642d1f6b482726c05d39b84ee63f09f7f9ed8a7f
+    at Object.ErrorResponse (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-helpers/src/errors.js:29:16)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-requestmanager/src/index.js:140:36
+    at XMLHttpRequest.request.onreadystatechange (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-providers-http/src/index.js:96:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-08-13T12:04:54.639Z | error | ==============================================================
+2019-08-13T12:04:55.993Z | error | ==============================================================
+2019-08-13T12:04:55.993Z | error | deploy-contract : Error: Returned error: known transaction: b72da8175f918eecd708a91d642d1f6b482726c05d39b84ee63f09f7f9ed8a7f
+    at Object.ErrorResponse (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-helpers/src/errors.js:29:16)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-requestmanager/src/index.js:140:36
+    at XMLHttpRequest.request.onreadystatechange (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-providers-http/src/index.js:96:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-08-13T12:04:55.993Z | error | ==============================================================
+2019-08-13T12:04:57.365Z | error | ==============================================================
+2019-08-13T12:04:57.366Z | error | deploy-contract : Error: Returned error: known transaction: b72da8175f918eecd708a91d642d1f6b482726c05d39b84ee63f09f7f9ed8a7f
+    at Object.ErrorResponse (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-helpers/src/errors.js:29:16)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-requestmanager/src/index.js:140:36
+    at XMLHttpRequest.request.onreadystatechange (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-providers-http/src/index.js:96:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-08-13T12:04:57.366Z | error | ==============================================================
+2019-08-13T12:13:33.007Z | error | ==============================================================
+2019-08-13T12:13:33.012Z | error | deploy-contract : ReferenceError: result is not defined
+    at /home/lenovo/Documents/simplyblock/ethereum-service/index.js:464:9
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+2019-08-13T12:13:33.013Z | error | ==============================================================
+2019-08-13T13:07:17.790Z | error | ==============================================================
+2019-08-13T13:07:17.800Z | error | deploy-contract : Error: Returned error: insufficient funds for gas * price + value
+    at Object.ErrorResponse (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-helpers/src/errors.js:29:16)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-requestmanager/src/index.js:140:36
+    at XMLHttpRequest.request.onreadystatechange (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-providers-http/src/index.js:96:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-08-13T13:07:17.801Z | error | ==============================================================
+2019-08-13T13:07:42.302Z | error | ==============================================================
+2019-08-13T13:07:42.302Z | error | deploy-contract : Error: Returned error: insufficient funds for gas * price + value
+    at Object.ErrorResponse (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-helpers/src/errors.js:29:16)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-requestmanager/src/index.js:140:36
+    at XMLHttpRequest.request.onreadystatechange (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-providers-http/src/index.js:96:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-08-13T13:07:42.303Z | error | ==============================================================

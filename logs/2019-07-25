@@ -1,0 +1,38 @@
+2019-07-25T12:53:39.481Z | error | ==============================================================
+2019-07-25T12:53:39.486Z | error | get-token-balance : Error: Cannot find module './build/:DappToken.json'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at new ContractERC20 (/home/lenovo/Documents/simplyblock/ethereum-service/ContractERC20.js:6:20)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/index.js:29:27
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:275:10)
+    at urlencodedParser (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/body-parser/lib/types/urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:317:13)
+2019-07-25T12:53:39.487Z | error | ==============================================================
+2019-07-25T12:53:52.558Z | error | ==============================================================
+2019-07-25T12:53:52.559Z | error | get-token-balance : Error: Cannot find module './build/:DappToken.json'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at new ContractERC20 (/home/lenovo/Documents/simplyblock/ethereum-service/ContractERC20.js:6:20)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/index.js:29:27
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:275:10)
+    at urlencodedParser (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/body-parser/lib/types/urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:317:13)
+2019-07-25T12:53:52.560Z | error | ==============================================================

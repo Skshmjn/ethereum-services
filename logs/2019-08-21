@@ -1,0 +1,94 @@
+2019-08-21T06:50:39.093Z | error | ==============================================================
+2019-08-21T06:50:39.094Z | error | deploy-contract : Error: Returned error: insufficient funds for gas * price + value
+    at Object.ErrorResponse (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-helpers/src/errors.js:29:16)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-requestmanager/src/index.js:140:36
+    at XMLHttpRequest.request.onreadystatechange (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-providers-http/src/index.js:96:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-08-21T06:50:39.094Z | error | ==============================================================
+2019-08-21T10:37:25.789Z | error | ==============================================================
+2019-08-21T10:37:25.791Z | error | transfer : TypeError: utils.IsAddressValid is not a function
+2019-08-21T10:37:25.791Z | error | ==============================================================
+2019-08-21T10:39:22.098Z | error | ==============================================================
+2019-08-21T10:39:22.101Z | error | transfer : CustomException: Invalid Address
+2019-08-21T10:39:22.101Z | error | ==============================================================
+2019-08-21T10:39:42.320Z | error | ==============================================================
+2019-08-21T10:39:42.321Z | error | transfer : CustomException: Invalid Address
+2019-08-21T10:39:42.321Z | error | ==============================================================
+2019-08-21T11:17:54.566Z | error | ==============================================================
+2019-08-21T11:17:54.569Z | error | transfer : Error: Returned error: known transaction: 8d1e333943ae014fb12e0e477e1315b1e41b4079daec4192103c74d947fa4352
+2019-08-21T11:17:54.569Z | error | ==============================================================
+2019-08-21T11:17:58.380Z | error | ==============================================================
+2019-08-21T11:17:58.381Z | error | transfer : Error: Returned error: known transaction: 8d1e333943ae014fb12e0e477e1315b1e41b4079daec4192103c74d947fa4352
+2019-08-21T11:17:58.381Z | error | ==============================================================
+2019-08-21T11:18:02.495Z | error | ==============================================================
+2019-08-21T11:18:02.495Z | error | transfer : Error: Returned error: known transaction: 8d1e333943ae014fb12e0e477e1315b1e41b4079daec4192103c74d947fa4352
+2019-08-21T11:18:02.495Z | error | ==============================================================
+2019-08-21T11:18:03.708Z | error | ==============================================================
+2019-08-21T11:18:03.708Z | error | transfer : Error: Returned error: known transaction: 8d1e333943ae014fb12e0e477e1315b1e41b4079daec4192103c74d947fa4352
+2019-08-21T11:18:03.709Z | error | ==============================================================
+2019-08-21T11:18:39.679Z | error | ==============================================================
+2019-08-21T11:18:39.679Z | error | transfer : Error: Returned error: nonce too low
+2019-08-21T11:18:39.679Z | error | ==============================================================
+2019-08-21T11:29:25.249Z | error | ==============================================================
+2019-08-21T11:29:25.251Z | error | transfer : CustomException: Transaction is Not Valid
+2019-08-21T11:29:25.251Z | error | ==============================================================
+2019-08-21T11:53:27.868Z | error | ==============================================================
+2019-08-21T11:53:27.871Z | error | transfer : CustomException: InSufficient Balance
+2019-08-21T11:53:27.871Z | error | ==============================================================
+2019-08-21T11:58:49.493Z | error | ==============================================================
+2019-08-21T11:58:49.496Z | error | burn : CustomException: Transaction is Not Valid
+2019-08-21T11:58:49.496Z | error | ==============================================================
+2019-08-21T12:54:32.077Z | error | ==============================================================
+2019-08-21T12:54:32.080Z | error | unfreeze : Error: Returned error: known transaction: efb2184d4c621762632410389fe9644fb3f62e270fe57f69a789f3d022099d97
+2019-08-21T12:54:32.081Z | error | ==============================================================
+2019-08-21T12:54:49.143Z | error | ==============================================================
+2019-08-21T12:54:49.144Z | error | unfreeze : CustomException: Transaction is Not Valid
+2019-08-21T12:54:49.145Z | error | ==============================================================
+2019-08-21T12:54:55.435Z | error | ==============================================================
+2019-08-21T12:54:55.437Z | error | unfreeze : CustomException: Transaction is Not Valid
+2019-08-21T12:54:55.438Z | error | ==============================================================
+2019-08-21T12:55:15.349Z | error | ==============================================================
+2019-08-21T12:55:15.352Z | error | unfreeze : CustomException: Transaction is Not Valid
+2019-08-21T12:55:15.352Z | error | ==============================================================
+2019-08-21T12:55:20.951Z | error | ==============================================================
+2019-08-21T12:55:20.956Z | error | unfreeze : CustomException: Transaction is Not Valid
+2019-08-21T12:55:20.956Z | error | ==============================================================
+2019-08-21T12:55:22.825Z | error | ==============================================================
+2019-08-21T12:55:22.825Z | error | unfreeze : CustomException: Transaction is Not Valid
+2019-08-21T12:55:22.825Z | error | ==============================================================
+2019-08-21T12:55:24.441Z | error | ==============================================================
+2019-08-21T12:55:24.442Z | error | unfreeze : CustomException: Transaction is Not Valid
+2019-08-21T12:55:24.442Z | error | ==============================================================
+2019-08-21T12:55:25.561Z | error | ==============================================================
+2019-08-21T12:55:25.561Z | error | unfreeze : CustomException: Transaction is Not Valid
+2019-08-21T12:55:25.561Z | error | ==============================================================
+2019-08-21T12:55:26.656Z | error | ==============================================================
+2019-08-21T12:55:26.658Z | error | unfreeze : CustomException: Transaction is Not Valid
+2019-08-21T12:55:26.658Z | error | ==============================================================
+2019-08-21T12:55:27.571Z | error | ==============================================================
+2019-08-21T12:55:27.571Z | error | unfreeze : CustomException: Transaction is Not Valid
+2019-08-21T12:55:27.571Z | error | ==============================================================
+2019-08-21T12:55:28.422Z | error | ==============================================================
+2019-08-21T12:55:28.423Z | error | unfreeze : CustomException: Transaction is Not Valid
+2019-08-21T12:55:28.423Z | error | ==============================================================
+2019-08-21T12:55:29.276Z | error | ==============================================================
+2019-08-21T12:55:29.276Z | error | unfreeze : CustomException: Transaction is Not Valid
+2019-08-21T12:55:29.276Z | error | ==============================================================
+2019-08-21T12:55:34.314Z | error | ==============================================================
+2019-08-21T12:55:34.315Z | error | freeze : Error: Returned error: replacement transaction underpriced
+2019-08-21T12:55:34.316Z | error | ==============================================================
+2019-08-21T13:00:53.097Z | error | ==============================================================
+2019-08-21T13:00:53.100Z | error | approve : SyntaxError: Identifier 'fee' has already been declared
+2019-08-21T13:00:53.101Z | error | ==============================================================
+2019-08-21T13:01:24.166Z | error | ==============================================================
+2019-08-21T13:01:24.169Z | error | approve : Error: Returned error: known transaction: 5063122d46071913df6cfbe3534cf72eeae0f9769fe3a1eea5d78d0b9a9b6c43
+2019-08-21T13:01:24.169Z | error | ==============================================================
+2019-08-21T13:32:09.788Z | error | ==============================================================
+2019-08-21T13:32:09.791Z | error | transfer-from : Error: Provided address "undefined" is invalid, the capitalization checksum test failed, or its an indrect IBAN address which can't be converted.
+2019-08-21T13:32:09.791Z | error | ==============================================================

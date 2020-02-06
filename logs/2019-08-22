@@ -1,0 +1,162 @@
+2019-08-22T05:51:53.132Z | error | ==============================================================
+2019-08-22T05:51:53.133Z | error | deploy-contract : Error: Returned error: insufficient funds for gas * price + value
+    at Object.ErrorResponse (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-helpers/src/errors.js:29:16)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-requestmanager/src/index.js:140:36
+    at XMLHttpRequest.request.onreadystatechange (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-providers-http/src/index.js:96:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-08-22T05:51:53.134Z | error | ==============================================================
+2019-08-22T05:59:26.932Z | error | ==============================================================
+2019-08-22T05:59:26.932Z | error | transfer-from : CustomException: InSufficient Balance
+2019-08-22T05:59:26.933Z | error | ==============================================================
+2019-08-22T06:00:32.567Z | error | ==============================================================
+2019-08-22T06:00:32.568Z | error | transfer-from : Error: Provided address "undefined" is invalid, the capitalization checksum test failed, or its an indrect IBAN address which can't be converted.
+2019-08-22T06:00:32.568Z | error | ==============================================================
+2019-08-22T06:48:49.859Z | error | ==============================================================
+2019-08-22T06:48:49.862Z | error | deploy-contract : Error: Returned error: known transaction: 6c9ebaf1f7830e7dcff313c7bbc585ddd276a4b4434aa4c6f69b0a0d4339b7b8
+    at Object.ErrorResponse (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-helpers/src/errors.js:29:16)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-core-requestmanager/src/index.js:140:36
+    at XMLHttpRequest.request.onreadystatechange (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/web3-providers-http/src/index.js:96:13)
+    at XMLHttpRequestEventTarget.dispatchEvent (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request-event-target.js:34:22)
+    at XMLHttpRequest._setReadyState (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:208:14)
+    at XMLHttpRequest._onHttpResponseEnd (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:318:14)
+    at IncomingMessage.<anonymous> (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/xhr2-cookies/dist/xml-http-request.js:289:61)
+    at IncomingMessage.emit (events.js:203:15)
+    at endReadableNT (_stream_readable.js:1129:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-08-22T06:48:49.862Z | error | ==============================================================
+2019-08-22T06:48:51.917Z | error | ==============================================================
+2019-08-22T06:48:53.131Z | error | ==============================================================
+2019-08-22T06:48:51.919Z | error | deploy-contract : Error: Cannot find module './build/undefined'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.deployContract (/home/lenovo/Documents/simplyblock/ethereum-service/utils.js:99:24)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/index.js:573:58
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:275:10)
+    at urlencodedParser (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/body-parser/lib/types/urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:317:13)
+2019-08-22T06:48:51.919Z | error | ==============================================================
+2019-08-22T06:48:53.132Z | error | deploy-contract : Error: Cannot find module './build/undefined'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:690:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.deployContract (/home/lenovo/Documents/simplyblock/ethereum-service/utils.js:99:24)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/index.js:573:58
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at /home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:275:10)
+    at urlencodedParser (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/body-parser/lib/types/urlencoded.js:82:7)
+    at Layer.handle [as handle_request] (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/lenovo/Documents/simplyblock/ethereum-service/node_modules/express/lib/router/index.js:317:13)
+2019-08-22T06:48:53.133Z | error | ==============================================================
+2019-08-22T07:01:02.622Z | error | ==============================================================
+2019-08-22T07:01:02.626Z | error | broadcast_hash : TypeError: Cannot read property 'constructor' of undefined
+2019-08-22T07:01:02.626Z | error | ==============================================================
+2019-08-22T07:01:16.339Z | error | ==============================================================
+2019-08-22T07:01:16.341Z | error | broadcast_hash : CustomException: Previous Transactions are pending. Please wait for some time
+2019-08-22T07:01:16.341Z | error | ==============================================================
+2019-08-22T07:03:35.687Z | error | ==============================================================
+2019-08-22T07:03:35.687Z | error | transfer : Error: Returned values aren't valid, did it run Out of Gas?
+2019-08-22T07:03:35.687Z | error | ==============================================================
+2019-08-22T07:03:49.667Z | error | ==============================================================
+2019-08-22T07:03:49.667Z | error | transfer : Error: Returned values aren't valid, did it run Out of Gas?
+2019-08-22T07:03:49.667Z | error | ==============================================================
+2019-08-22T07:04:04.587Z | error | ==============================================================
+2019-08-22T07:04:04.587Z | error | transfer : Error: Returned values aren't valid, did it run Out of Gas?
+2019-08-22T07:04:04.588Z | error | ==============================================================
+2019-08-22T07:04:13.630Z | error | ==============================================================
+2019-08-22T07:04:13.630Z | error | transfer : Error: Returned values aren't valid, did it run Out of Gas?
+2019-08-22T07:04:13.631Z | error | ==============================================================
+2019-08-22T07:07:04.311Z | error | ==============================================================
+2019-08-22T07:07:04.312Z | error | broadcast_hash : ReferenceError: utils is not defined
+2019-08-22T07:07:04.312Z | error | ==============================================================
+2019-08-22T07:07:05.623Z | error | ==============================================================
+2019-08-22T07:07:05.623Z | error | broadcast_hash : ReferenceError: utils is not defined
+2019-08-22T07:07:05.623Z | error | ==============================================================
+2019-08-22T07:07:07.331Z | error | ==============================================================
+2019-08-22T07:07:07.331Z | error | broadcast_hash : ReferenceError: utils is not defined
+2019-08-22T07:07:07.331Z | error | ==============================================================
+2019-08-22T07:07:52.934Z | error | ==============================================================
+2019-08-22T07:07:52.935Z | error | broadcast_hash : ReferenceError: error is not defined
+2019-08-22T07:07:52.935Z | error | ==============================================================
+2019-08-22T07:08:05.472Z | error | ==============================================================
+2019-08-22T07:08:43.419Z | error | ==============================================================
+2019-08-22T07:10:50.181Z | error | ==============================================================
+2019-08-22T07:10:50.183Z | error | broadcast_hash : [object Promise]
+2019-08-22T07:10:50.183Z | error | ==============================================================
+2019-08-22T07:11:10.290Z | error | ==============================================================
+2019-08-22T07:11:10.291Z | error | broadcast_hash : CustomException: Previous Transactions are pending. Please wait for some time
+2019-08-22T07:11:10.291Z | error | ==============================================================
+2019-08-22T07:14:28.091Z | error | ==============================================================
+2019-08-22T07:14:28.093Z | error | transfer : Error: Returned values aren't valid, did it run Out of Gas?
+2019-08-22T07:14:28.093Z | error | ==============================================================
+2019-08-22T07:16:09.594Z | error | ==============================================================
+2019-08-22T07:16:09.596Z | error | transfer : CustomException: InValid Contract
+2019-08-22T07:16:09.596Z | error | ==============================================================
+2019-08-22T07:16:38.265Z | error | ==============================================================
+2019-08-22T07:16:38.266Z | error | transfer : CustomException: InValid Contract
+2019-08-22T07:16:38.266Z | error | ==============================================================
+2019-08-22T07:16:49.084Z | error | ==============================================================
+2019-08-22T07:16:49.084Z | error | broadcast_hash : CustomException: InSufficient Balance
+2019-08-22T07:16:49.084Z | error | ==============================================================
+2019-08-22T07:16:58.622Z | error | ==============================================================
+2019-08-22T07:16:58.622Z | error | broadcast_hash : CustomException: InSufficient Balance
+2019-08-22T07:16:58.623Z | error | ==============================================================
+2019-08-22T07:17:01.536Z | error | ==============================================================
+2019-08-22T07:17:01.536Z | error | broadcast_hash : CustomException: InSufficient Balance
+2019-08-22T07:17:01.536Z | error | ==============================================================
+2019-08-22T07:22:13.270Z | error | ==============================================================
+2019-08-22T07:22:13.272Z | error | broadcast_hash : CustomException: Previous Transactions are pending. Please wait for some time
+2019-08-22T07:22:13.273Z | error | ==============================================================
+2019-08-22T07:22:22.936Z | error | ==============================================================
+2019-08-22T07:22:22.937Z | error | broadcast_hash : Error: Returned error: replacement transaction underpriced
+2019-08-22T07:22:22.937Z | error | ==============================================================
+2019-08-22T07:25:45.757Z | error | ==============================================================
+2019-08-22T07:25:45.766Z | error | broadcast_hash : CustomException: Previous Transactions are pending. Please wait for some time
+2019-08-22T07:25:45.766Z | error | ==============================================================
+2019-08-22T07:25:56.304Z | error | ==============================================================
+2019-08-22T07:25:56.305Z | error | transfer : CustomException: Previous Transactions are pending. Please wait for some time
+2019-08-22T07:25:56.305Z | error | ==============================================================
+2019-08-22T08:54:11.337Z | error | ==============================================================
+2019-08-22T08:54:11.339Z | error | broadcast_hash : CustomException: Previous Transactions are pending. Please wait for some time
+2019-08-22T08:54:11.339Z | error | ==============================================================
+2019-08-22T08:54:14.022Z | error | ==============================================================
+2019-08-22T08:54:14.023Z | error | broadcast_hash : CustomException: Previous Transactions are pending. Please wait for some time
+2019-08-22T08:54:14.023Z | error | ==============================================================
+2019-08-22T08:56:53.590Z | error | ==============================================================
+2019-08-22T08:56:53.591Z | error | broadcast_hash : CustomException: Invalid Transaction ID
+2019-08-22T08:56:53.591Z | error | ==============================================================
+2019-08-22T08:57:30.167Z | error | ==============================================================
+2019-08-22T08:57:30.167Z | error | broadcast_hash : CustomException: Previous Transactions are pending. Please wait for some time
+2019-08-22T08:57:30.168Z | error | ==============================================================
+2019-08-22T08:57:49.724Z | error | ==============================================================
+2019-08-22T08:57:49.725Z | error | broadcast_hash : CustomException: Invalid Transaction ID
+2019-08-22T08:57:49.725Z | error | ==============================================================
+2019-08-22T08:57:52.924Z | error | ==============================================================
+2019-08-22T08:57:52.925Z | error | broadcast_hash : CustomException: Invalid Transaction ID
+2019-08-22T08:57:52.925Z | error | ==============================================================
+2019-08-22T08:59:07.215Z | error | ==============================================================
+2019-08-22T08:59:07.216Z | error | broadcast_hash : CustomException: Invalid Transaction ID
+2019-08-22T08:59:07.216Z | error | ==============================================================
+2019-08-22T08:59:48.589Z | error | ==============================================================
+2019-08-22T08:59:48.590Z | error | broadcast_hash : CustomException: Invalid Transaction ID
+2019-08-22T08:59:48.590Z | error | ==============================================================

@@ -1,0 +1,12 @@
+2019-08-09T12:35:12.098Z | error | ==============================================================
+2019-08-09T12:35:12.099Z | error | broadcast_hash : RangeError: private key length is invalid
+2019-08-09T12:35:12.099Z | error | ==============================================================
+2019-08-09T12:37:17.528Z | error | ==============================================================
+2019-08-09T12:37:17.531Z | error | broadcast_hash : Error: Error: Returned error: invalid argument 0: json: cannot unmarshal hex string without 0x prefix into Go value of type hexutil.Bytes
+2019-08-09T12:37:17.532Z | error | ==============================================================
+2019-08-09T13:09:36.534Z | error | ==============================================================
+2019-08-09T13:09:36.535Z | error | broadcast_hash : Error: Error: Returned error: known transaction: eed45db3a8ee89f9089cbde74a3e45a16dd0e028c592360e838a95eca4eb1c30
+2019-08-09T13:09:36.535Z | error | ==============================================================
+2019-08-09T13:11:13.243Z | error | ==============================================================
+2019-08-09T13:11:13.243Z | error | broadcast_hash : Error: Error: Returned error: known transaction: eed45db3a8ee89f9089cbde74a3e45a16dd0e028c592360e838a95eca4eb1c30
+2019-08-09T13:11:13.243Z | error | ==============================================================
